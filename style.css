@@ -1,0 +1,33 @@
+body{
+    background-color: bisque;
+  }
+  a{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-size: larger;
+    display: block;
+    margin: 12px;
+  }
+  nav ul {
+    display: inline-flex;
+    justify-content: space-between;
+    text-align: center;
+    margin: 10px;
+
+  }  body{
+    background-color: blanchedalmond;
+  }
+  p{
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+  }    body{
+    background-color: silver;
+}
+
+
+
+
+ 
